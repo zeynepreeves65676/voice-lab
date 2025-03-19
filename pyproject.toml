@@ -1,0 +1,5 @@
+[project]
+name = "voice-lab"
+version = "0.1.0"
+description = "Testing and evaluation framework for voice agents "
+requires-python = ">=3.10"
